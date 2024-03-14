@@ -1,5 +1,5 @@
 #splitting images into an 80/20 ratio
-#total images 9000 + 3 + 60 = 9073 -> 80%: 7258 20%: 
+#total images 9000  = 9000 -> 80%: 7200 ; 20%: 1800 
 
 
 classes = ['A','B','C']
